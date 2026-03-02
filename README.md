@@ -1,4 +1,4 @@
-# AI Programming Foundations Project: County Level Income and Health Data: County Income and Health
+# AI Programming Foundations Project: County Level Income and Health Data Workflow
 
 ## Project Description
 
