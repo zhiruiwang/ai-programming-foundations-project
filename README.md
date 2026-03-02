@@ -12,12 +12,12 @@ This repository contains a reproducible data workflow that links U.S. county-lev
 
 - **CDC PLACES — Local Data for Better Health, County Data 2024 release**  
   County-level model-based estimates of health outcomes and risk factors (e.g., obesity, diabetes) from the Behavioral Risk Factor Surveillance System (BRFSS).  
-  Source: [CDC PLACES / Chronic Data](https://data.census.gov/table/ACSDT5Y2023.B19013).  
+  Source: [CDC PLACES / Chronic Data](https://catalog.data.gov/dataset/places-local-data-for-better-health-county-data-2024-release).  
   File: `Data/Raw/PLACES__Local_Data_for_Better_Health__County_Data_2024_release.csv`
 
 - **U.S. Census Bureau, American Community Survey (ACS) 5-Year Estimates**  
   Table B19013: Median household income in the past 12 months (in 2024 inflation-adjusted dollars) by county.  
-  Source: [data.census.gov](https://catalog.data.gov/dataset/places-local-data-for-better-health-county-data-2024-release) (search for B19013 or ACS 5-Year).  
+  Source: [data.census.gov](https://data.census.gov/table/ACSDT5Y2023.B19013) (search for B19013 or ACS 5-Year).  
   Folder: `Data/Raw/ACSDT5Y2024.B19013_2026-03-01T180214/`  
   File: `ACSDT5Y2024.B19013-Data.csv`
 
